@@ -69,7 +69,6 @@ Following some useful materials for your work:
 
 [Git and GitHub configuration and usage](https://www.loom.com/share/6b86aa3bc0aa4f2d88a315bc9d3209c4)
 
-[Pseudo Code Methodology]
-(https://wtmatter.com/pseudocode/)
+[Pseudo Code Methodology](https://wtmatter.com/pseudocode/)
 
 
